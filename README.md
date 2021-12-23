@@ -1,2 +1,2 @@
-This is Matthew's first git project!
-Or halfcoat's? 
+My first GitHub repo!
+Hello Odin!
